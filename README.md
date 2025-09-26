@@ -1,16 +1,13 @@
-## Hi there 👋
+## <samp>Hi there</samp> 👋
 
-<!--
-**shuiyuan5173/shuiyuan5173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<samp>I'll escape from here with my own power soon. There's just something that happened inside that's been bugging me. So I'm going back for now.</samp>
 
-Here are some ideas to get you started:
+<p align="right"><samp>By Jolyne Cujoh</samp></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 <samp>How To Reach Me</samp>
+
+- <samp>Email: [Follow Up Here](mailto:shuiyuan5173@gmail.com)</samp>
+
+## <samp>Magic Number</samp>
+
+![Visited By](https://count.getloli.com/@shuiyuan5173?theme=gelbooru)
